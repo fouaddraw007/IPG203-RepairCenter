@@ -1,0 +1,14 @@
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\bin\Debug\net10.0\RepairCenter.exe
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\bin\Debug\net10.0\RepairCenter.deps.json
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\bin\Debug\net10.0\RepairCenter.runtimeconfig.json
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\bin\Debug\net10.0\RepairCenter.dll
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\bin\Debug\net10.0\RepairCenter.pdb
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.AssemblyInfoInputs.cache
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.AssemblyInfo.cs
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.csproj.CoreCompileInputs.cache
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.dll
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\refint\RepairCenter.dll
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.pdb
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\RepairCenter.genruntimeconfig.cache
+C:\Users\fouad\.codex\.chatgpt-projects\g-p-6ae8cab39c4c8191b80103a1459a7a82\output\IPG203_RepairCenter\RepairCenter\obj\Debug\net10.0\ref\RepairCenter.dll
